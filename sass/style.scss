@@ -1,5 +1,5 @@
 .bg-parallax-1 {
-  background-image: url("/home/innoraft/html/Halcyon_Days/images/hero-bg.jpg");
+  background-image: url("/images/hero-bg.jpg");
   min-height: 800px;
   width: auto;
   background-position: center;
@@ -9,7 +9,7 @@
 }
 
 .bg-parallax-2 {
-  background-image: url("/home/innoraft/html/Halcyon_Days/images/iphone-bg.png");
+  background-image: url("/images/iphone-bg.png");
   min-height: 636px;
   margin-right: 600px;
   background-position: left;
@@ -19,7 +19,7 @@
 
 
 .bg-parallax-3 {
-  background-image: url("/home/innoraft/html/Halcyon_Days/images/plants-bg.jpg");
+  background-image: url("/images/plants-bg.jpg");
   min-height: 300px;
   width: auto;
   background-position: center;
@@ -273,7 +273,7 @@ hr {
 
 /* line 234, ../sass/style.scss */
 #paralx {
-  background-image: url(/home/innoraft/html/Halcyon_Days/images/plants-bg.jpg);
+  background-image: url(/images/plants-bg.jpg);
   min-height: 300px;
   background-attachment: fixed;
   background-position: center;
@@ -299,7 +299,7 @@ hr {
 
 /* line 255, ../sass/style.scss */
 #prblm {
-  background-image: url(/home/innoraft/html/Halcyon_Days/images/plants-bg.jpg);
+  background-image: url(/images/plants-bg.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -338,17 +338,17 @@ hr {
   color: #fff;
   font-size: 16px;
   line-height: 40px;
-  
-  
 
-  text-align: center; 
+
+
+  text-align: center;
   border-radius: 50%;
-  
-} 
+
+}
 .dwn-btn:hover {
   background-color: rgb(61,201,179);
   color: #fff;
-} 
+}
 
 
 
@@ -416,12 +416,12 @@ ul#social-button {
   height: 40px;
   border-radius: 50%;
   background-color: black;
-  
+
   color: #fff;
   font-size: 17px;
   line-height: 40px;
   text-align: center;
- 
+
   position: relative;
    margin: 0 auto 10px;
   box-sizing: border-box;
@@ -436,8 +436,8 @@ ul#social-button {
   padding: 0 0 100px;
 }
 .subscribe {
-  background-image: url("/home/innoraft/html/Halcyon_Days/images/keyboard-bg.jpg");
-  
+  background-image: url("/images/keyboard-bg.jpg");
+
   min-height: 400px;
   background-attachment: fixed;
   background-position: center;
@@ -504,11 +504,11 @@ ul#social-button {
   color: #fff;
   font-size: 20px;
   line-height: 45px;
-  text-align: center; 
+  text-align: center;
   border-radius: 50px;
   top: -26px;
   position: relative;
-}  
+}
 .up-btn:hover{
   background-color: rgba(61,201,179,1);
   color: white;
@@ -529,7 +529,7 @@ ul#social-button {
 }
 .light-box {
   background-color: #fff;
- 
+
  text-align: center;
  padding-bottom: 20px;
 }
@@ -557,7 +557,7 @@ footer {
   background-color: #242830;
   padding: 40px 0 30px;
 }
- 
+
 
  .legals {
   text-align: left;
@@ -571,14 +571,8 @@ footer {
  }
  footer p{
   color: #fff;
-  font-family: "Varela Round", sans-serif; 
+  font-family: "Varela Round", sans-serif;
  }
  .credit {
   text-align: right;
  }
-
-
-
- 
- 
-  
