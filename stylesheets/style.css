@@ -334,7 +334,7 @@ hr {
 /* line 255, ../sass/style.scss */
 /* line 301, ../sass/style.scss */
 #prblm {
-  background-image: url(../images/plants-bg.jpg);
+  background-image: url("../images/plants-bg.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
