@@ -1,6 +1,10 @@
 /* line 1, ../sass/style.scss */
 .bg-parallax-1 {
+<<<<<<< HEAD
   background-image: url("/images/hero-bg.jpg");
+=======
+  background-image: url("../images/hero-bg.jpg");
+>>>>>>> ce1c6abeb5074bf0362aff09b50838df03d1dbbc
   min-height: 800px;
   width: auto;
   background-position: center;
@@ -11,7 +15,11 @@
 
 /* line 11, ../sass/style.scss */
 .bg-parallax-2 {
+<<<<<<< HEAD
   background-image: url("/images/iphone-bg.png");
+=======
+  background-image: url("../images/iphone-bg.png");
+>>>>>>> ce1c6abeb5074bf0362aff09b50838df03d1dbbc
   min-height: 636px;
   margin-right: 600px;
   background-position: left;
@@ -21,7 +29,11 @@
 
 /* line 21, ../sass/style.scss */
 .bg-parallax-3 {
+<<<<<<< HEAD
   background-image: url("/images/plants-bg.jpg");
+=======
+  background-image: url("../images/plants-bg.jpg");
+>>>>>>> ce1c6abeb5074bf0362aff09b50838df03d1dbbc
   min-height: 300px;
   width: auto;
   background-position: center;
@@ -305,7 +317,11 @@ hr {
 /* line 234, ../sass/style.scss */
 /* line 275, ../sass/style.scss */
 #paralx {
+<<<<<<< HEAD
   background-image: url(/images/plants-bg.jpg);
+=======
+  background-image: url(../images/plants-bg.jpg);
+>>>>>>> ce1c6abeb5074bf0362aff09b50838df03d1dbbc
   min-height: 300px;
   background-attachment: fixed;
   background-position: center;
@@ -334,7 +350,11 @@ hr {
 /* line 255, ../sass/style.scss */
 /* line 301, ../sass/style.scss */
 #prblm {
+<<<<<<< HEAD
   background-image: url(/images/plants-bg.jpg);
+=======
+  background-image: url("../images/plants-bg.jpg");
+>>>>>>> ce1c6abeb5074bf0362aff09b50838df03d1dbbc
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -480,7 +500,11 @@ ul#social-button {
 
 /* line 438, ../sass/style.scss */
 .subscribe {
+<<<<<<< HEAD
   background-image: url("/images/keyboard-bg.jpg");
+=======
+  background-image: url("../images/keyboard-bg.jpg");
+>>>>>>> ce1c6abeb5074bf0362aff09b50838df03d1dbbc
   min-height: 400px;
   background-attachment: fixed;
   background-position: center;
